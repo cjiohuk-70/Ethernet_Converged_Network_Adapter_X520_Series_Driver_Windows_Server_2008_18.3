@@ -142,4 +142,4 @@ This repository serves as the official landing page for the Ethernet Converged N
 **Get the most recent version of the Ethernet Converged Network Adapter Driver today!**
 
 ---
-**Last updated:** 2026-11-11 10:16:25 UTC
+**Last updated:** 2026-11-11 18:20:55 UTC
